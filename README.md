@@ -1,0 +1,2 @@
+# npcManager
+NPC coming here!
